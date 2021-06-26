@@ -1,0 +1,72 @@
+c:\users\phong pc\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\Interop.VDStdLib5.dll
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\AxInterop.VDStdLib5.dll
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\bin\Debug\Interop.VDStdLib5.dll
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\bin\Debug\AxInterop.VDStdLib5.dll
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmBanve.resources
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmBotrithep.resources
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmVatlieu.resources
+C:\Users\PHONG PC\Documents\Visual Studio 2019\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmThongsodam.resources
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\Interop.VDStdLib5.dll
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\AxInterop.VDStdLib5.dll
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmBanve.resources
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmBotrithep.resources
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmVatlieu.resources
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmThongsodam.resources
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\Interop.VDStdLib5.dll
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\AxInterop.VDStdLib5.dll
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\Interop.VDProLib5.dll
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\AxInterop.VDProLib5.dll
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\Interop.VDProLib5.dll
+C:\Users\PHONG PC\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\AxInterop.VDProLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\Interop.VDProLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\Interop.VDStdLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\AxInterop.VDProLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\bin\Debug\AxInterop.VDStdLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\Interop.VDProLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\Interop.VDStdLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\AxInterop.VDProLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\AxInterop.VDStdLib5.dll
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmBanve.resources
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmBotrithep.resources
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmVatlieu.resources
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.FrmThongsodam.resources
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\lamth\OneDrive\Máy tính\WindowsApplication1\q\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
